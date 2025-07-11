@@ -42,7 +42,7 @@ checkout(customer, cart);
 
 ---
 ->️ Screenshots
-[App Screenshot](Fawry Screenshot.png)
+[App Screenshot](FawryScreenshot.png)
 
 
 
